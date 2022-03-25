@@ -1,0 +1,1 @@
+CREATE TABLE test3 ( test_id int NOT NULL, test_name char(50) NOT NULL );
